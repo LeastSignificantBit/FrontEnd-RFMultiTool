@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADL5801
+D 10 MHz to 6 GHz, Active Mixer
+F http://datasheet.octopart.com/ADL5801ACPZ-R7-Analog-Devices-datasheet-10617913.pdf
+$ENDCMP
+#
+$CMP PE42423
+D SPDT RF Switch 100 MHz - 6 GHz 
+F http://www.psemi.com/pdf/datasheets/pe42423ds.pdf
+$ENDCMP
+#
+$CMP PE42442
+D SP4T RF Switch 30 MHz–6 GHz 
+F http://www.psemi.com/pdf/datasheets/pe42442ds.pdf
+$ENDCMP
+#
+#End Doc Library
