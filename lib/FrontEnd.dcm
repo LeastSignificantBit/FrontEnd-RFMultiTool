@@ -15,4 +15,14 @@ D SP4T RF Switch 30 MHz–6 GHz
 F http://www.psemi.com/pdf/datasheets/pe42442ds.pdf
 $ENDCMP
 #
+$CMP RT9069
+D 36V, 2µA Iq, 200mA, LDO LIN REG
+F http://www.richtek.com/assets/product_file/RT9069/DS9069-02.pdf
+$ENDCMP
+#
+$CMP TLV711
+D Dual 200mA LDO LIN REG
+F http://www.ti.com/lit/ds/symlink/tlv7113333d.pdf
+$ENDCMP
+#
 #End Doc Library
